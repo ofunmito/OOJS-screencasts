@@ -1,6 +1,6 @@
 /* Udacity Front-End Developer Nanodegree
  * Object Oriented JavaScript
- * Lesson 3-2 Quiz: lasses and Objects - Constructor Functions
+ * Lesson 3-2 Quiz: Classes and Objects - Constructor Functions
  * 
  *
  * Now it's your turn to create a constructor function. Declare a

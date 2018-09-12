@@ -1,6 +1,6 @@
 /* Udacity Front-End Developer Nanodegree
  * Object Oriented JavaScript
- * Lesson 5-4 Programming Quiz: Convert Function into an Arrow Function (2-1)
+ * Lesson 5-4 Programming Quiz:  Functions - Convert Function into an Arrow Function (2-1)
  */
 
 // convert to an arrow function
